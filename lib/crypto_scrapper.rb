@@ -33,5 +33,5 @@ top_10_crypto_data = top_10_crypto_scraper
 
 # les 10 premières cryptomonnaies avec son index, son nom, son prix
 top_10_crypto_data.each_with_index do |crypto, index|
-  puts "Crypto ##{index + 1}: #{crypto[:name]}, Prix: #{crypto[:price]}"
+  puts "Crypto ##{index + 1}: #{crypto[:name]}, Pryix: #{crypto[:price]}"
 end
