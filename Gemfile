@@ -4,5 +4,5 @@ gem 'rspec'
 gem 'pry'
 gem 'rubocop'
 gem 'dotenv'
-gem "http"
-gem "nokogiri"
+gem 'http'
+gem 'nokogiri'
