@@ -1,0 +1,1 @@
+Une journée scraping, apprentissage de XPATH et NOKOGIRI ! le premier exo permet de ressortir des valeurs sur des coins ! 
